@@ -4,8 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * develop分支修改
- * develop_20170315提交
+ * develop分支修改"1"
+ * develop_20170315提交 20170315修改"1"
  */
 public class MainActivity extends AppCompatActivity {
 
