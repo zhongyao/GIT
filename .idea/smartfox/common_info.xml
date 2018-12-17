@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SmartFoxWorkToolsProjectState">
     <option name="gitUrl" value="https://github.com/zhongyao/GIT.git" />
-    <option name="localBranch" value="develop_20170315" />
-    <option name="revision" value="918ac20052e5629e8f168de7a4f1d0d5b8bfba96" />
+    <option name="localBranch" value="feature" />
+    <option name="revision" value="db01c851b8db28dae28cc66c76f3ef10d07daf52" />
   </component>
 </project>
